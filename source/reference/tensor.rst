@@ -21,7 +21,6 @@
 
    Tensor.dtype
    Tensor.astype
-   Tensor.q_dict
    Tensor.shape
    Tensor.reshape
    Tensor.ndim
